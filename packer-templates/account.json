@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lithe-tesla-234322",
+  "private_key_id": "10b489181b39c34ef4a5705bad8e1251b00901dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCazTBXjdikK3Rb\n2g1IFwRXyTOXCVeFkmndYjJbb0yYF/TiMFa1lBtBr/TSExpagL59KtFZnceSGiYv\nNMb3VDHcgzQwq/yd9SbfkBmB0kYM8QtXeBt3h+tT115bGC+ka/QF5pUzrRUMdqj3\ne0OWUJQ8p6i/P/OCqHetrwxoBufG277TSSy0TFJM/hPXklLIsgHQ/QP8tyQ74IPo\nPwDhSjoGrvBs2ZXfp+RGkC7mHeWnb+2T6D0ySp9+hqFdyoML9/WmUXE+wfVRUcMs\nkcIkSJyo8wdDaYwj6XgRB3yc0QnGwjvIZ3KHTyjh1DJyJnOP6PfGdwJWTLUiNLPn\nRDgSXQ/bAgMBAAECggEARs5Q7NNIQvtPW04XIiDJD0BMFSskOcf5HVZzkygLAEyA\n6c7TcnWerAKIOGiddsUJnGXv4Q5OwRCt44y/71Q3BFaNEjAwua1vDPYz/JIKEZRV\nrDoXUiq85JoPohojfJEWSnaoSz1BcfR6n8xlY0VTMJU9ldDyGJLnPu3g/loePPIC\nkZUvDkO6+Rh856EnLmUBii3CAhk6cBL/NaIYk6FtuFVy/gidMzodrEvDZThOZsXd\nVZJ3cR9mPD1lp9q1eYt4k9Z4/lk6Vpxx537GIOX5GGL9UKUv+RDuk7WWJC8Lfeae\nl3V/VOL0gGBVDsuOV3HdvKAAv4JAFwH4C5QpG5vylQKBgQDYJvAF+9RdAo7XtU2M\nn973TNoVaE7uSA6EJ/NQaL8GNVusBjyMfsJsQuE70+HqMBuhfsMVPPOk1Ikw75vm\nbfIxtmQD9zcjeTwZ3vRFtHhhCM2RzWaIhzTB3xyyrp/yp5fIleJNyPPpVzzxsTMP\nUzGM3D3Wm1r9Dh4LLP2grktYPQKBgQC3VuCmfQGYfxEnWuAtsJRKH/ws/LaASD5G\niuWE2/vWipLxbi3RYx9jWkEQOh1PTHBjgRAWdYbgiN3LhlE9H/WdepZMeXg44pYf\n35WBHpe4KEpn0BifpiS4ruYj2JV7JshWhx7+a9Ttau0ERa3GwT9QP7CYeGM3EhgK\nyKWX4Bhx9wKBgGwdLbkQeOv8t43VNXC9Fj0Dx6ElhzVP/VLE2MLDYaitT6j/hZGQ\nZZbY7OeL11fXsDpauSEKV6N+WxCLCKN9IsMSw3voT0ADB7i4991Vo1CFoqzm2/42\nAoFmI2iMR5yLjzPZJFRbywRPikApraxgpEwcbSHGmwAv638Thdi01SLRAoGAYFWi\nDVk58WszFD7H9LoH8TsFQo43Rwiu0FpDZ6A/n+eIdpuyL4eqAoZ2EZS3uecsVtyG\nG4b9rBW+lSaqoTed03WKa/yXkyxcPbs5z3LHvdhN4GaTya9/NBuSidtQEDm8otq1\nCnKWm3nHuKr0OK9qGTyeCj+XwmQbhe8QM9FohtkCgYBCOIclldORAL4KpEp+8Pvi\n0YnrkhrRicbmahPhBGtsmkhgnahZZdeEZY9DaNuQq56uBaQ0WnSfMO3H4jNHAlgw\nVqPzI6J1vc0VcBkrJXZlSy8M6YuH//MrxdlkVEm2XDOQeOvi+v9X1qZ2mQr5Zbte\nhe223OzGCYGEK+LDiMhxdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "udacity-devops@lithe-tesla-234322.iam.gserviceaccount.com",
+  "client_id": "116010605017548180172",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/udacity-devops%40lithe-tesla-234322.iam.gserviceaccount.com"
+}
