@@ -2,3 +2,7 @@
 packer_cache
 packer-templates/virtualbox/
 devops-kungfu/
+packer-templates/account.json
+nginx-server/
+packer-templates/brent-puppet-agent-virtualbox/
+packer-templates/brent-puppet-agent.json
